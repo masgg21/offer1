@@ -6,6 +6,5 @@ public class off01 {
 		off02 o=new off02();
 		int s=o.test(arr);
 		System.out.println(s);
-
 	}
 }
